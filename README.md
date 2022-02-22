@@ -1,5 +1,7 @@
 # inner-promise
 
+[![NPM](https://nodei.co/npm/inner-promise.png?mini=true)](https://nodei.co/npm/inner-promise/) [![Build Status](https://app.travis-ci.com/asilvas/inner-promise.svg?branch=main)](https://app.travis-ci.com/asilvas/inner-promise)
+
 A different way to handle resolve/reject patterns for promises.
 
 ```
