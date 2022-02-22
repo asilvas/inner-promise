@@ -1,6 +1,6 @@
 {
   "name": "inner-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A better way to handle promises",
   "main": "lib",
   "types": "src",
